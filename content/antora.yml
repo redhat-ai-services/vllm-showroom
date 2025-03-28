@@ -6,14 +6,13 @@ nav:
 
 asciidoc:
   attributes:
-    lab_name: "I'm the lab_name var"
+    lab_name: "vLLM Master Class"
     release-version: master
     page-pagination: true
-    my_var: "foo"
-    guid: my-guid
-    ssh_user: devops
-    ssh_password: devops
-    ssh_command: ssh someone@example.com
+    # guid: my-guid
+    # ssh_user: devops
+    # ssh_password: devops
+    # ssh_command: ssh someone@example.com
     page-links:
     - url: https://redhat.com
       text: Red Hat

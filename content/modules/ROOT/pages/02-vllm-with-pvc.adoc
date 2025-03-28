@@ -1,0 +1,7 @@
+= Deploying a vLLM instance with a PVC
+
+== Objective
+
+In this section you will create a PVC, copy a model to the PVC, and finally deploy a vLLM instance using the model from the PVC.
+
+== Instructions

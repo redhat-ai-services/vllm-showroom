@@ -1,0 +1,7 @@
+= Deploying a vLLM instance with S3
+
+== Objective
+
+In this section you will perform a load test against a vLLM instance and learn about common LLM metrics.
+
+== Instructions
