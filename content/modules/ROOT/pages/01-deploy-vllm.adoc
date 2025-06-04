@@ -6,7 +6,7 @@ There are several options for deploying vLLM. The sections below outline the dif
 
 == Deployment Strategies
 
-* xref:deployment/01c-build-modelcar-image.adoc[Building a ModelCar Image] - Create a custom container image with preloaded models for efficient deployment.
 * xref:deployment/01a-vllm-with-s3.adoc[Deploying vLLM with S3] - Use Amazon S3 buckets to store and load model weights for vLLM deployments.
 * xref:deployment/01b-vllm-with-pvc.adoc[Deploying vLLM with PVCs] - Leverage Kubernetes Persistent Volume Claims to provide storage for vLLM models.
+* xref:deployment/01c-vllm-modelcar.adoc[Building a ModelCar Image] - Create a custom container image with preloaded models for efficient deployment.
 * xref:deployment/01e-vllm-via-helm.adoc[Deploying vLLM via Helm] - Use Helm charts to automate and manage vLLM deployments on Kubernetes.
