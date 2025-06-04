@@ -16,3 +16,6 @@ asciidoc:
     page-links:
     - url: https://redhat.com
       text: Red Hat
+    
+    cluster-namespace: "my-vllm-namespace"
+

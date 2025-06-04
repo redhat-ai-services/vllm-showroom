@@ -1,0 +1,12 @@
+= Deploying a vLLM instance with ModelCar
+
+== Objective
+
+In this section, you will deploy a vLLM instance using Model Car.
+
+== Instructions
+
+Let's go over how to build then deploy our model car image.
+
+* xref:deployment/modelcar/01c-build-modelcar-image.adoc[Building a ModelCar Image]
+* xref:deployment/modelcar/01c-deploy-modelcar.adoc[Building a ModelCar Image]

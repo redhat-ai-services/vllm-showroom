@@ -1,4 +1,4 @@
-= Deploying a vLLM instance with S3
+= Deploying a vLLM instance with Model Car
 
 == Objective
 
